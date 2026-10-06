@@ -1,4 +1,4 @@
-# aamas26
+# AAMAS26
 
 
 
